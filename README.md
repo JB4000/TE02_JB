@@ -24,7 +24,7 @@ dsfds
 
 `System.out.println("hello");
 
-[titleRandom] (https://www.politiken.dk)
+[titleRandom](https://www.politiken.dk)
 
 ![alt text](image.jpg)
 
